@@ -1,0 +1,642 @@
+[
+  {
+    "businessName": "Eastex Brush Control",
+    "websiteLink": "http://eastexbrushcontrol.com/",
+    "rating": 5,
+    "reviews": 23,
+    "ranking": 1,
+    "email": "oscar.tx1836@gmail.com"
+  },
+  {
+    "businessName": "JRP Tree & Demolition Services",
+    "websiteLink": "http://jrpservices.net/",
+    "rating": 4.7,
+    "reviews": 156,
+    "ranking": 2
+  },
+  {
+    "businessName": "Tri-State Land Clearing",
+    "websiteLink": "https://tristatetx.com/",
+    "rating": 5,
+    "reviews": 1,
+    "ranking": 3
+  },
+  {
+    "businessName": "Nature's Tree Removal of Houston",
+    "websiteLink": "https://www.besthoustontreeremoval.com/",
+    "rating": 4.8,
+    "reviews": 269,
+    "ranking": 4
+  },
+  {
+    "businessName": "Texas Land Clearing Services LLC",
+    "websiteLink": "https://demolitionpasadena.com/",
+    "rating": 5,
+    "reviews": 3,
+    "ranking": 5
+  },
+  {
+    "businessName": "Texas Ace Land Clearing",
+    "websiteLink": "http://texasacelandclearing.com/",
+    "rating": 4.9,
+    "reviews": 41,
+    "ranking": 6
+  },
+  {
+    "businessName": "MB Site Work Dirt Work, Land Clearing and Excavating",
+    "websiteLink": "http://www.mbsitework.com/",
+    "rating": 4.8,
+    "reviews": 17,
+    "ranking": 7
+  },
+  {
+    "businessName": "A's Landscape & Tree service",
+    "websiteLink": "https://mmscqbzgbw.wixsite.com/treeservicehouston",
+    "rating": 5,
+    "reviews": 46,
+    "ranking": 8,
+    "email": "8c4075d5481d476e945486754f783364@sentry.io, 605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com, dd0a55ccb8124b9c9d938e3acf41f8aa@sentry.wixpress.com, c183baa23371454f99f417f6616b724d@sentry.wixpress.com"
+  },
+  {
+    "businessName": "JRP Tree Services",
+    "websiteLink": "https://www.jrpservices.net/tree-and-demolition/",
+    "rating": 4.7,
+    "reviews": 68,
+    "ranking": 9
+  },
+  {
+    "businessName": "Land Clearing Houston",
+    "websiteLink": "https://landclearinghoutx.com/",
+    "rating": 5,
+    "reviews": 2,
+    "ranking": 10,
+    "email": "stephen@landclearinghoutx.com"
+  },
+  {
+    "businessName": "GHR Tractor Mowing & Land Clearing",
+    "websiteLink": "http://ghrtractormowing.com/",
+    "rating": 5,
+    "reviews": 1,
+    "ranking": 11,
+    "email": "ghrgc@yahoo.com"
+  },
+  {
+    "businessName": "TNT Land Clearing",
+    "websiteLink": "https://www.tntlandclearing.com/",
+    "rating": 5,
+    "reviews": 4,
+    "ranking": 12,
+    "email": "agustinamingote@gmail.com, amkryukov@gmail.com"
+  },
+  {
+    "businessName": "Austin Land Clearing LLC",
+    "websiteLink": "http://www.austinlandclearing.com/",
+    "rating": 4.7,
+    "reviews": 38,
+    "ranking": 13
+  },
+  {
+    "businessName": "OM Tree Service",
+    "websiteLink": "http://omtreeservice.com/",
+    "rating": 5,
+    "reviews": 231,
+    "ranking": 14,
+    "email": "om.tree.service@gmail.com, template.placeholder@gmail.com"
+  },
+  {
+    "businessName": "Luxury Tree Service & Landscaping",
+    "websiteLink": "http://luxurytreeservice.com/",
+    "rating": 4.9,
+    "reviews": 157,
+    "ranking": 15,
+    "email": "luxurytreeservice2020@yahoo.com"
+  },
+  {
+    "businessName": "Texas Tree Legends",
+    "websiteLink": "http://texastreelegends.com/",
+    "rating": 4.8,
+    "reviews": 17,
+    "ranking": 16,
+    "email": "jerpena2011@gmail.com, micah@micahrich.com, filler@godaddy.com"
+  },
+  {
+    "businessName": "Meadows Tree Service",
+    "websiteLink": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwj4mZXf9dmKAxXkqGYCHe_aKRkYABABGgJzbQ&co=1&ase=2&gclid=Cj0KCQiAst67BhCEARIsAKKdWOm3Htx-LsCwkQzdb0knqnl6vyaS3pfNnVcwH97Z4tmNSFdVNFsb1DEaAssXEALw_wcB&ohost=www.google.com&cid=CAESVuD2-PMahl12lM7AqaLSKH5uzBnsM0dKq_Zd7BDJaUULHS63lrYFqvOY7f-6B2bjIxwtoattzm6BCMJLMroUZmTscQGJTCB72oWKqHyQV5kMLx7T1iUV&sig=AOD64_1UBRfmLg4pvmk7alM50-RMjNmL0A&adurl=&ctype=50&q=",
+    "rating": 4.9,
+    "reviews": 258,
+    "ranking": 17
+  },
+  {
+    "businessName": "Valerio's Tree Service & More",
+    "websiteLink": "https://www.valeriostreeserviceandmore.com/",
+    "rating": 4.8,
+    "reviews": 68,
+    "ranking": 18
+  },
+  {
+    "businessName": "Garrett Tree Service",
+    "websiteLink": "https://www.treeservicebygarretttx.com/",
+    "rating": 4.9,
+    "reviews": 50,
+    "ranking": 19,
+    "email": "john@smith.com, garretttreeservice@gmail.com"
+  },
+  {
+    "businessName": "Monster Tree Service of Northwest Houston",
+    "websiteLink": "https://www.monstertreeservice.com/northwest-houston/?utm_source=GMB&utm_medium=organic&utm_campaign=houston",
+    "rating": 4.9,
+    "reviews": 299,
+    "ranking": 20
+  },
+  {
+    "businessName": "Monster Tree Service of West Houston",
+    "websiteLink": "https://www.monstertreeservice.com/west-houston/",
+    "rating": 4.9,
+    "reviews": 157,
+    "ranking": 21
+  },
+  {
+    "businessName": "Aldine Tree Services Houston Stump Grinding",
+    "websiteLink": "http://www.aldinetreeservices.com/",
+    "rating": 4.8,
+    "reviews": 65,
+    "ranking": 22,
+    "email": "impallari@gmail.com, contact@aldinetreeservices.com, help@mapquest.com, team@latofonts.com"
+  },
+  {
+    "businessName": "Channel Land Clearing",
+    "websiteLink": "https://www.channellandclearing.com/",
+    "rating": "",
+    "reviews": "",
+    "ranking": 23,
+    "email": "info@clcwork.com"
+  },
+  {
+    "businessName": "Texas Best Land Clearing, LLC",
+    "websiteLink": "https://www.facebook.com/Texas-Best-Land-Clearing-711918192596601/",
+    "rating": 5,
+    "reviews": 3,
+    "ranking": 24
+  },
+  {
+    "businessName": "Daniel Dean Land Clearing & Dirt Work",
+    "websiteLink": "http://danieldean.com/",
+    "rating": "",
+    "reviews": "",
+    "ranking": 25
+  },
+  {
+    "businessName": "Highpoint Tree Care | Tree Service & Tree Removal Houston, TX",
+    "websiteLink": "https://highpointtreecare.com/",
+    "rating": 5,
+    "reviews": 20,
+    "ranking": 26
+  },
+  {
+    "businessName": "GHR Tractor Mowing and land clearing",
+    "websiteLink": "https://www.ghrtractormowing.com/",
+    "rating": "",
+    "reviews": "",
+    "ranking": 27,
+    "email": "ghrgc@yahoo.com"
+  },
+  {
+    "businessName": "Houston Tree Surgeons",
+    "websiteLink": "https://www.houstontreesurgeons.com/",
+    "rating": 4.7,
+    "reviews": 72,
+    "ranking": 28
+  },
+  {
+    "businessName": "Land Maintenance Services, Inc",
+    "websiteLink": "https://landmaintenancehouston.com/",
+    "rating": 5,
+    "reviews": 9,
+    "ranking": 29,
+    "email": "landmaintenanceservices2@yahoo.com, info@landmaintenancehouston.com"
+  },
+  {
+    "businessName": "Land Clearing of Texas",
+    "websiteLink": "http://www.landclearingoftexas.com/",
+    "rating": "",
+    "reviews": "",
+    "ranking": 30
+  },
+  {
+    "businessName": "Texas Land Clearing",
+    "websiteLink": "http://texaslandclearing.com/",
+    "rating": 4.9,
+    "reviews": 236,
+    "ranking": 31,
+    "email": "office@texaslandclearing.com, allenwagner@bigappz.com"
+  },
+  {
+    "businessName": "Houston County Mulching and Land Services",
+    "websiteLink": "http://www.texasmulchman.com/",
+    "rating": 5,
+    "reviews": 16,
+    "ranking": 32,
+    "email": "impallari@gmail.com, matt@pixelspread.com, hello@rfuenzalida.com"
+  },
+  {
+    "businessName": "C.I.R Tree Service",
+    "websiteLink": "https://www.cirtreeservices.com/",
+    "rating": 4.8,
+    "reviews": 48,
+    "ranking": 33,
+    "email": "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com, xavieraleman88@yahoo.com, 8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com"
+  },
+  {
+    "businessName": "Meadows Tree Service",
+    "websiteLink": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjLj-Dh9dmKAxXkhUsFHRKaKXQYABABGgJzZg&co=1&ase=2&gclid=Cj0KCQiAst67BhCEARIsAKKdWOmf671fWRHVGPsw8f-Zn9Q_yZQDGmoCao1FLByYqsyk45z2j1jFhGwaAgmhEALw_wcB&ohost=www.google.com&cid=CAESVuD2u7ftrUapaKqhzN07oBNb1lSAw_-l59Acp1RO7Col1I-1gSLBXZf-_2O513PIp3vY8ncxTds-eeEI7UEpcV4WsV0ZZWalhUi8SuyDj9KRF3Kp1Aoa&sig=AOD64_0lIacuTXWVkf32EfoPnKagtgolsQ&adurl=&ctype=50&q=",
+    "rating": 4.9,
+    "reviews": 258,
+    "ranking": 34
+  },
+  {
+    "businessName": "Brother's Tree Service",
+    "websiteLink": "https://brotherstreeservice.webflow.io/",
+    "rating": 4.9,
+    "reviews": 36,
+    "ranking": 35
+  },
+  {
+    "businessName": "K&R TREE SERVICE PROS",
+    "websiteLink": "https://krtreeservicepros.com/",
+    "rating": 4.8,
+    "reviews": 104,
+    "ranking": 36
+  },
+  {
+    "businessName": "Spring Tree Service LLC",
+    "websiteLink": "http://springtreeservice.us/",
+    "rating": 4.7,
+    "reviews": 57,
+    "ranking": 37,
+    "email": "springtreeservice1@gmail.com"
+  },
+  {
+    "businessName": "Affordable Tree Service Houston",
+    "websiteLink": "https://affordabletreeservicehouston.com/",
+    "rating": 5,
+    "reviews": 3,
+    "ranking": 38
+  },
+  {
+    "businessName": "Houston Tree Removal",
+    "websiteLink": "http://www.houstontreeremovals.com/",
+    "rating": 4.1,
+    "reviews": 43,
+    "ranking": 39
+  },
+  {
+    "businessName": "LHD Tree Service",
+    "websiteLink": "https://www.lhdtreecare.com/",
+    "rating": 5,
+    "reviews": 5,
+    "ranking": 40,
+    "email": "lhdtreeservice@live.com"
+  },
+  {
+    "businessName": "HamodaTrees",
+    "websiteLink": "https://hamodatrees.com/",
+    "rating": 5,
+    "reviews": 24,
+    "ranking": 41,
+    "email": "sales@hamodatrees.com"
+  },
+  {
+    "businessName": "Southeast Tree",
+    "websiteLink": "http://www.southeasttreetx.com/",
+    "rating": 4.7,
+    "reviews": 54,
+    "ranking": 42,
+    "email": "your@email.com"
+  },
+  {
+    "businessName": "Clear My Land",
+    "websiteLink": "https://clearmyland.com/",
+    "rating": 5,
+    "reviews": 3,
+    "ranking": 43,
+    "email": "kent.kirby@clearmyland.com"
+  },
+  {
+    "businessName": "Optimum Tree Service",
+    "websiteLink": "https://www.optimumtreeservice.com/",
+    "rating": 5,
+    "reviews": 32,
+    "ranking": 44,
+    "email": "0e6a29e4756740a8a63493e912ba2174@sentry.wixpress.com, 8c4075d5481d476e945486754f783364@sentry.io, dd0a55ccb8124b9c9d938e3acf41f8aa@sentry.wixpress.com, 605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com, c183baa23371454f99f417f6616b724d@sentry.wixpress.com, 8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com, vices@gmail.com, baf30a2b91654c5a840931f0137bed30@sentry.wixpress.com, 2062d0a4929b45348643784b5cb39c36@sentry.wixpress.com, optimumtreeservices@gmail.com, f36cc48fb72b4d298c835f2793cf3b84@sentry-next.wixpress.com"
+  },
+  {
+    "businessName": "SavATree",
+    "websiteLink": "https://www.savatree.com/houston-tree-service?utm_source=GMB&utm_medium=organic&utm_campaign=houston",
+    "rating": 4.7,
+    "reviews": 116,
+    "ranking": 45
+  },
+  {
+    "businessName": "ArborTrue",
+    "websiteLink": "https://arbortrue.com/tree-service-houston-tx/",
+    "rating": 4.7,
+    "reviews": 63,
+    "ranking": 46,
+    "email": "888arborist@gmail.com"
+  },
+  {
+    "businessName": "Arborez Houston (Tree Service Specialist)",
+    "websiteLink": "https://arborez.wixsite.com/houston",
+    "rating": 5,
+    "reviews": 121,
+    "ranking": 47,
+    "email": "8c4075d5481d476e945486754f783364@sentry.io, dd0a55ccb8124b9c9d938e3acf41f8aa@sentry.wixpress.com, 605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com, 88170cb0c9d64f94b5821ca7fd2d55a4@sentry-next.wixpress.com, arborezhoustonservices@hotmail.com, 8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com, c183baa23371454f99f417f6616b724d@sentry.wixpress.com, info@mysite.com, f36cc48fb72b4d298c835f2793cf3b84@sentry-next.wixpress.com"
+  },
+  {
+    "businessName": "DirtWirx",
+    "websiteLink": "http://www.dirtwirx.com/",
+    "rating": 4.2,
+    "reviews": 5,
+    "ranking": 48,
+    "email": "info@dirtwirx.com, getinfo@dirtwirx.com"
+  },
+  {
+    "businessName": "Martinez Tree Services",
+    "websiteLink": "https://treesvcinhouston.com/",
+    "rating": 4.4,
+    "reviews": 22,
+    "ranking": 49,
+    "email": "martineztreeservices25@gmail.com"
+  },
+  {
+    "businessName": "Saldana Tree Services and Landscaping",
+    "websiteLink": "http://saldanatreeservices.com/",
+    "rating": 5,
+    "reviews": 5,
+    "ranking": 50,
+    "email": "saldanatrees@yahoo.com"
+  },
+  {
+    "businessName": "Meadows Tree Service",
+    "websiteLink": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjihKfk9dmKAxWypGYCHeyoB1oYABABGgJzbQ&co=1&ase=2&gclid=Cj0KCQiAst67BhCEARIsAKKdWOnTurwlUPob30p5GFhK8D-sh8k4qJjKO0YlNJzvgcVXnJDvqpKPSDkaAts5EALw_wcB&ohost=www.google.com&cid=CAESVuD2BYIJ8xdfgN3uwpBH2cAimrNTdemV7GNFWC70wEPXlc_5hc50jwK3FYy8EK6M6ikoxsCS4njqfCLNlfWBngFlov5kEbk1O1Nvv46R9J64tZFvTfIS&sig=AOD64_3zsrZS1xruM33l7iQaS8L8wiIbbA&adurl=&ctype=50&q=",
+    "rating": 4.9,
+    "reviews": 258,
+    "ranking": 51
+  },
+  {
+    "businessName": "William Tree Services",
+    "websiteLink": "https://www.williamtreeandfence.com/",
+    "rating": 4.8,
+    "reviews": 21,
+    "ranking": 52,
+    "email": "williamtreeservice@gmail.com"
+  },
+  {
+    "businessName": "Rosales Land Clearing",
+    "websiteLink": "https://rosaleslandclearing.com/",
+    "rating": "",
+    "reviews": "",
+    "ranking": 53
+  },
+  {
+    "businessName": "Tree Service Of Sugar Land",
+    "websiteLink": "https://treeserviceofsugarland.com/",
+    "rating": 4.5,
+    "reviews": 8,
+    "ranking": 54
+  },
+  {
+    "businessName": "J&C Tree Service",
+    "websiteLink": "https://www.jctree-service.com/",
+    "rating": 5,
+    "reviews": 26,
+    "ranking": 55,
+    "email": "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com, jctreeservicee@gmail.com, 8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com"
+  },
+  {
+    "businessName": "Father & Son Dirt Works LLC",
+    "websiteLink": "https://landclearinghoustontxcom.com/",
+    "rating": 5,
+    "reviews": 6,
+    "ranking": 56,
+    "email": "fathersondirtworks2@gmail.com, filler@godaddy.com"
+  },
+  {
+    "businessName": "MG TREE SERVICE",
+    "websiteLink": "http://www.mgtreeservice.com/",
+    "rating": 4.6,
+    "reviews": 32,
+    "ranking": 57,
+    "email": "2062d0a4929b45348643784b5cb39c36@sentry.wixpress.com, info@mgtreeservice.com, 605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com, 8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com"
+  },
+  {
+    "businessName": "Texas Tree Cutters LLC",
+    "websiteLink": "https://www.texastreecutters.com/",
+    "rating": 5,
+    "reviews": 80,
+    "ranking": 58,
+    "email": "0e6a29e4756740a8a63493e912ba2174@sentry.wixpress.com, 460ff4620fa44cba8df530afde949785@sentry.wixpress.com, 8c4075d5481d476e945486754f783364@sentry.io, 271e9fa3230b4eec94b02bf95780f5f2@sentry.wixpress.com, dd0a55ccb8124b9c9d938e3acf41f8aa@sentry.wixpress.com, 605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com, texastreecuttersllc@gmail.com, c183baa23371454f99f417f6616b724d@sentry.wixpress.com, 8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com, baf30a2b91654c5a840931f0137bed30@sentry.wixpress.com, 2062d0a4929b45348643784b5cb39c36@sentry.wixpress.com"
+  },
+  {
+    "businessName": "Land Clearing USA of Texas",
+    "websiteLink": "https://landclearingusa.com/land-clearing-texas/",
+    "rating": 5,
+    "reviews": 1,
+    "ranking": 59
+  },
+  {
+    "businessName": "Allred Tree Service | Free Estimates | Houston, TX",
+    "websiteLink": "http://www.allredtree.com/",
+    "rating": 4,
+    "reviews": 10,
+    "ranking": 60
+  },
+  {
+    "businessName": "Tree Solutions of Texas",
+    "websiteLink": "http://treesolutionsoftexas.com/?utm_campaign=gmb",
+    "rating": 5,
+    "reviews": 338,
+    "ranking": 61
+  },
+  {
+    "businessName": "Cesar B Tree Services",
+    "websiteLink": "https://cesarbtreeservicetx.com/",
+    "rating": 4.7,
+    "reviews": 12,
+    "ranking": 62,
+    "email": "cesarbtreeservice04@gmail.com"
+  },
+  {
+    "businessName": "OM Tree Service - Katy",
+    "websiteLink": "https://omtreeservice.com/katy",
+    "rating": 5,
+    "reviews": 66,
+    "ranking": 63,
+    "email": "om.tree.service@gmail.com, template.placeholder@gmail.com"
+  },
+  {
+    "businessName": "Long Horn Tree Solution",
+    "websiteLink": "http://longhorntreesolution.com/",
+    "rating": 5,
+    "reviews": 29,
+    "ranking": 64,
+    "email": "hello@jottful.com, longhorntreesolution@gmail.com"
+  },
+  {
+    "businessName": "Sugar Land Tree Service, Removal & Trimming",
+    "websiteLink": "http://www.sugarlandtreeservice.net/",
+    "rating": 3,
+    "reviews": 2,
+    "ranking": 65
+  },
+  {
+    "businessName": "Manzanares Multi Services",
+    "websiteLink": "https://manzanaresmultiservices.com/",
+    "rating": 4.7,
+    "reviews": 15,
+    "ranking": 66
+  },
+  {
+    "businessName": "The Houston Excavating Company",
+    "websiteLink": "https://excavatingcompanyhouston.com/",
+    "rating": 4.9,
+    "reviews": 28,
+    "ranking": 67
+  },
+  {
+    "businessName": "Texas Tree Cutters LLC",
+    "websiteLink": "https://www.texastreecutters.com/contact",
+    "rating": 5,
+    "reviews": 3,
+    "ranking": 68,
+    "email": "0e6a29e4756740a8a63493e912ba2174@sentry.wixpress.com, 460ff4620fa44cba8df530afde949785@sentry.wixpress.com, 8c4075d5481d476e945486754f783364@sentry.io, 271e9fa3230b4eec94b02bf95780f5f2@sentry.wixpress.com, dd0a55ccb8124b9c9d938e3acf41f8aa@sentry.wixpress.com, 605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com, texastreecuttersllc@gmail.com, c183baa23371454f99f417f6616b724d@sentry.wixpress.com, 8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com, baf30a2b91654c5a840931f0137bed30@sentry.wixpress.com, 2062d0a4929b45348643784b5cb39c36@sentry.wixpress.com"
+  },
+  {
+    "businessName": "Meadows Tree Service",
+    "websiteLink": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwiysPfm9dmKAxX0omYCHZaFMaoYABABGgJzbQ&co=1&ase=2&gclid=Cj0KCQiAst67BhCEARIsAKKdWOlySVKzkT3JnUcvO6FIbbdCBjc-g9uGHeYQdoKw-wcuYkLaLMLmpdUaAlxpEALw_wcB&ohost=www.google.com&cid=CAESVuD2JHqzUslp4hnNrzPw2012LD5nWGNEHjWsptUHcPR0o2uYbgRSg7aE3ieApNkPSgFbZkUoe-b_byiK_43YZsmFUwUpznOT3Dj8Axe8bcD7vfvStno6&sig=AOD64_2Rjd4aUFNrPMjchkQcjbTIpoIw9w&adurl=&ctype=50&q=",
+    "rating": 4.9,
+    "reviews": 258,
+    "ranking": 69
+  },
+  {
+    "businessName": "Sap Arborcare & Landscaping",
+    "websiteLink": "http://saparborcare.com/",
+    "rating": 4.8,
+    "reviews": 208,
+    "ranking": 70,
+    "email": "18d2f96d279149989b95faf0a4b41882@sentry-next.wixpress.com, 8c4075d5481d476e945486754f783364@sentry.io, dd0a55ccb8124b9c9d938e3acf41f8aa@sentry.wixpress.com, bfb679c754744c58a7374ee6e25cfc13@sentry.wixpress.com, 79baaa8e09c746d2b7401643b99792e0@sentry.wixpress.com, 605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com, c183baa23371454f99f417f6616b724d@sentry.wixpress.com, 8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com, 2062d0a4929b45348643784b5cb39c36@sentry.wixpress.com, 5d1795a2db124a268f1e1bd88f503500@sentry.wixpress.com"
+  },
+  {
+    "businessName": "D Tree Service",
+    "websiteLink": "http://d-treeservice.com/",
+    "rating": 5,
+    "reviews": 23,
+    "ranking": 71,
+    "email": "d.treeservice1999@gmail.com"
+  },
+  {
+    "businessName": "RnD Land Clearing",
+    "websiteLink": "http://www.rndlandclearing.com/",
+    "rating": "",
+    "reviews": "",
+    "ranking": 72,
+    "email": "delesandrir@gmail.com"
+  },
+  {
+    "businessName": "SavATree - Tree Service & Lawn Care",
+    "websiteLink": "https://www.savatree.com/locations/houston-texas/?utm_source=GMB&utm_medium=organic&utm_campaign=houston",
+    "rating": 4.6,
+    "reviews": 189,
+    "ranking": 73
+  },
+  {
+    "businessName": "Arbor Pro The Tree Experts",
+    "websiteLink": "http://www.arborproexperts.com/",
+    "rating": 4.7,
+    "reviews": 46,
+    "ranking": 74
+  },
+  {
+    "businessName": "Pierce Land Clearing - Austin TX",
+    "websiteLink": "https://www.piercelandclearing.com/",
+    "rating": 4.8,
+    "reviews": 175,
+    "ranking": 75,
+    "email": "support@piercelandclearing.com, 79baaa8e09c746d2b7401643b99792e0@sentry.wixpress.com, 605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com, 8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com, 2062d0a4929b45348643784b5cb39c36@sentry.wixpress.com"
+  },
+  {
+    "businessName": "Adam's Trees Designs and Services",
+    "websiteLink": "https://www.adamstreeservice.com/",
+    "rating": 4.2,
+    "reviews": 19,
+    "ranking": 76
+  },
+  {
+    "businessName": "Tree Services Houston",
+    "websiteLink": "https://treeserviceshouston.net/",
+    "rating": "",
+    "reviews": "",
+    "ranking": 77,
+    "email": "info@treeserviceshouston.net"
+  },
+  {
+    "businessName": "Jimenez Tree Service",
+    "websiteLink": "https://jimeneztreeservices.com/",
+    "rating": 5,
+    "reviews": 4,
+    "ranking": 78,
+    "email": "info@jimeneztreeservices.com"
+  },
+  {
+    "businessName": "Tree Care Professional",
+    "websiteLink": "https://www.treecareprohouston.com/",
+    "rating": 4.8,
+    "reviews": 80,
+    "ranking": 79,
+    "email": "ftreeservice@gmail.com"
+  },
+  {
+    "businessName": "Gilbert's Tree and Lawn Service",
+    "websiteLink": "http://www.gilbertstreeandlawnservice.com/",
+    "rating": 4.4,
+    "reviews": 19,
+    "ranking": 80,
+    "email": "gilberttreeservices@gmail.com"
+  },
+  {
+    "businessName": "Monster Tree Service of Pearland",
+    "websiteLink": "https://www.monstertreeservice.com/pearland/?utm_source=GMB&utm_medium=organic&utm_campaign=pearland",
+    "rating": 5,
+    "reviews": 15,
+    "ranking": 81
+  },
+  {
+    "businessName": "Land Clearing",
+    "websiteLink": "http://jcsconstructionservice.com/about-us/",
+    "rating": "",
+    "reviews": "",
+    "ranking": 82
+  },
+  {
+    "businessName": "Meadows Tree Service",
+    "websiteLink": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwiz08Dp9dmKAxWYomYCHTzwCw8YABABGgJzbQ&co=1&ase=2&gclid=Cj0KCQiAst67BhCEARIsAKKdWOnA-Iw2rNrGYxVs_E9GRNLEVjcs_yzbDNBrbrudm_5ZnThS7uE0-XQaAkQDEALw_wcB&ohost=www.google.com&cid=CAESVuD2MifPYx6GZD-r1RCT2GzRVNxu3fN8GQ6-Kx9QLmvp2VKDwVe6Id5630cQ6EMO5-leKVRLkwn8zjLDRKSjiyfms8oYmkgG789JBDF4EtFBZFFZDCVQ&sig=AOD64_2-aH6VpeyU_AVmjL7k1So9Vf4HXA&adurl=&ctype=50&q=",
+    "rating": 4.9,
+    "reviews": 258,
+    "ranking": 83
+  },
+  {
+    "businessName": "Lone Star Tree Services",
+    "websiteLink": "https://www.lonestartreeservices.com/",
+    "rating": 4.8,
+    "reviews": 5,
+    "ranking": 84
+  },
+  {
+    "businessName": "Tree Service Houston Fantastic",
+    "websiteLink": "https://treeservicehoustonfantastic.com/",
+    "rating": 4.1,
+    "reviews": 9,
+    "ranking": 85,
+    "email": "fantastictreeco@gmail.com"
+  }
+]
